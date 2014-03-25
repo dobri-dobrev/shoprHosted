@@ -1,0 +1,14 @@
+{
+    "applications": {
+        "ShoprLads": {
+            "applicationId": "hsF1YqRFuQ0rTousJrmzKLLcvEQNTfwXPwdvd7Kr", 
+            "masterKey": "tBHSqcSyNGSTcSNr04jLN5rGoeMVnBsyY3SQY0oh"
+        }, 
+        "_default": {
+            "link": "ShoprLads"
+        }
+    }, 
+    "global": {
+        "parseVersion": "1.2.18"
+    }
+}
